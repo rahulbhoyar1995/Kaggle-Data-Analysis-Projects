@@ -9,11 +9,17 @@ Welcome to my repository containing Jupyter files code for data analysis project
 2. German City and Towns Data Analysis
 
 ### Requirements:
+
 Python 3.x
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 ### Feedback:

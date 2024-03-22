@@ -8,6 +8,7 @@ Welcome to my repository containing Jupyter files code for data analysis project
 1. Bollywood Movies Data Analysis
 2. German City and Towns Data Analysis
 3. IPL Data Analysis
+4. History of Philosophy Data Analysis
 
 ### Requirements:
 

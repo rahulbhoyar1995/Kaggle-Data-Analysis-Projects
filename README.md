@@ -5,7 +5,8 @@
 Welcome to my repository containing Jupyter files code for data analysis projects based on Kaggle Datasets.
 
 ### Project List::
-1. Bollywood Movies dataset analysis
+1. Bollywood Movies Data Analysis
+2. German City and Towns Data Analysis
 
 ### Requirements:
 Python 3.x

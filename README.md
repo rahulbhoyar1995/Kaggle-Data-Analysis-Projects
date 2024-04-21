@@ -9,7 +9,8 @@ Welcome to my repository containing Jupyter files code for data analysis project
 2. German City and Towns Data Analysis
 3. IPL Data Analysis
 4. History of Philosophy Data Analysis
-5. Forbes Celbrities Data Analysis 
+5. Forbes Celbrities Data Analysis
+6. Data Science Jobs in India
 
 ### Requirements:
 
